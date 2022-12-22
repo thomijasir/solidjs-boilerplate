@@ -1,0 +1,38 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "strict": true,
+    "target": "ESNext",
+    "lib": [
+      "es2015",
+      "dom",
+      "dom.iterable",
+      "esnext",
+      "es6",
+      "ScriptHost"
+    ],
+    "rootDir": "./src", 
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "types": ["vite/client"],
+    "noEmit": true,
+    "isolatedModules": true,
+    "newLine": "LF",  
+  },
+   "include": [
+    "./src/**/*"
+  ],
+  "exclude": [
+    ".git",
+    "node_modules",
+    "dist",
+    "config",
+    "coverage",
+    "public",
+    "scripts"
+  ]
+}
