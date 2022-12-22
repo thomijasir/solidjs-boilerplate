@@ -1,4 +1,26 @@
-# React Hook 18 Boilerplate 🚀
+# SolidJs Boilerplate 🚀
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/8123499/209060809-befe51ee-2b0e-4d90-907d-1d71d8ef4774.gif">
+</p>
+
+
+## 🔑 Feature Solid Boilerplate 🪢
+
+1. SolidJs 1.5 Reactivity
+2. Custom Hook API
+3. Redux Integrated
+4. Full Restrict TypeScript & Node Engine
+5. New Architecture SolidJs Template
+6. Predefined ClearCache Component
+7. Pre install Solid Router
+8. Fast Vite Build Integration
+9. Predefined error general and loading general component
+10. Pre-configure eslint, prettier, tsconfig, npmrc.
+11. Stable node in LTS/gallium
+12. Support Micro-Frontend ecosystem.
+13. Pre-configure TailwinCss.
+14. and much more
 
 ## Usage
 
@@ -9,8 +31,6 @@ This is the reason you see a `pnpm-lock.yaml`. That being said, any package mana
 ```bash
 $ npm install # or pnpm install or yarn install
 ```
-
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
 
 ## Available Scripts
 
